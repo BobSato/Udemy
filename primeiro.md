@@ -1,1 +1,1 @@
-qualquer valor 1
+qualquer valor
